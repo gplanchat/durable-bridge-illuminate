@@ -14,7 +14,7 @@
     "license": "MIT",
     "type": "library",
     "require": {
-        "gplanchat/durable": "self.version",
+        "gplanchat/durable": "^0.1.0-beta1",
         "illuminate/contracts": "^11.0 || ^12.0 || ^13.0",
         "illuminate/database": "^11.0 || ^12.0 || ^13.0",
         "illuminate/support": "^11.0 || ^12.0 || ^13.0",
